@@ -1,7 +1,7 @@
 # Hi there, I'm [Andy Cary][instagram] 👋
 
 [![Website](https://img.shields.io/website?label=andycary.com&style=for-the-badge&url=https%3A%2F%2Fandycary.com)](https://andycary.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facary&screen_name=andycary)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andycary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facary&screen_name=andycary)
 
 ## I'm a Software Developer
 
