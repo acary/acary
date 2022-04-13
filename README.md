@@ -5,7 +5,7 @@
 
 ## I'm a Software Developer
 
-- 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com] (http://andycarypro.com/)
+- 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com](http://andycarypro.com/)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
 - 🌱 I’m currently learning Full Stack Development with Java at Skill Distillery
 - 👯 I’m looking to collaborate with others in the industry
