@@ -5,7 +5,8 @@
 
 ## I'm a Software Developer
 
-- 🔭 Check out my portfolio: [AndyCary.com][website]
+- 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com] (http://andycarypro.com/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
 - 🌱 I’m currently learning Full Stack Development with Java at Skill Distillery
 - 👯 I’m looking to collaborate with others in the industry
 - 🥅 2022 Goals: Advance as a Full Stack Developer, explore Blockchain Engineering
@@ -14,7 +15,6 @@
 
 ### Connect with me:
 
-➡️ 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
 ➡️ [Website](https://andycary.com)
 &nbsp;&nbsp;
 
