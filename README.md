@@ -6,14 +6,15 @@
 ## I'm a Software Developer
 
 - 🔭 Check out my portfolio: [AndyCary.com][website]
-- 🌱 I’m currently learning Full Stack Development with Java
+- 🌱 I’m currently learning Full Stack Development with Java at Skill Distillery
 - 👯 I’m looking to collaborate with others in the industry
-- 🥅 2022 Goals: Learn more about the Rust programming language
-- ⚡ Fun fact: I love to play drums
-- 😻 Check out the NFT I minted: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
+- 🥅 2022 Goals: Advance as a Full Stack Developer, explore Blockchain Engineering
+- ⚡ Fun fact: I love to play drums 🥁, photography 📸 and video 🎥
+- 😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
 
 ### Connect with me:
 
+➡️ 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/andrewdcary/)
 ➡️ [Website](https://andycary.com)
 &nbsp;&nbsp;
 
