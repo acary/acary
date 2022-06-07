@@ -38,6 +38,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- 🌱 [SkillGuild - Video Presentation and Demo](https://youtu.be/HjufQ-4gZLs)
 <!-- YOUTUBE:END -->
 
 ---
