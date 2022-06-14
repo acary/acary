@@ -6,9 +6,9 @@
 ## I am a Software Developer
 
 - 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com](http://andycarypro.com/)
-- 🌱 I’m currently learning Full Stack Development with Java at Skill Distillery
+- 🌱 I’m recently completed Full Stack Development with Java at Skill Distillery
 - 👯 I’m looking to collaborate with others in the industry
-- 🥅 2022 Goals: Advance as a Full Stack Developer, explore Blockchain Engineering
+- 🥅 2022 Goals: Advance as an Angular-focused Full Stack Developer
 - ⚡ Fun fact: I love to play drums 🥁 photography 📸 and video 🎥
 - 😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
 
@@ -20,6 +20,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -51,6 +52,7 @@
 ---
 
 [website]: https://andycary.com
+[portfolio]: http://andycarypro.com
 [github]: https://github.com/acary
 [twitter]: https://twitter.com/andycary
 [youtube]: https://www.youtube.com/channel/UCMDreWAdYFBu_Vge-rKbzbA
