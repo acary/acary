@@ -7,9 +7,8 @@
 ## I am a Software Developer
 
 - 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com](http://andycarypro.com/)
-- 🌱 I’m recently completed Full Stack Development with Java at Skill Distillery
-- 👯 I’m looking to collaborate with others in the industry
-- 🥅 2022 Goals: Advance as an Angular-focused Full Stack Developer
+- 🌱 I’m currently working as a Full Stack Engineer developing a data-centric platform with Java, Angular and Postgres for government
+- 🥅 2023 Goals: Advance in my career as a developer and build a web application with business value
 - ⚡ Fun fact: I love to play drums 🥁 photography 📸 and video 🎥
 - 😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
 
