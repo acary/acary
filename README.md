@@ -4,13 +4,12 @@
 [![Website](https://img.shields.io/website?label=andycarypro.com&style=for-the-badge&url=http%3A%2F%2Fandycarypro.com)](http://andycarypro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andycary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facary&screen_name=andycary)
 
-## I am a Software Developer
+## I am a Software Engineer
 
 - 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com](http://andycarypro.com/)
-- 🌱 I’m currently working as a Full Stack Engineer developing a data-centric platform with Java, Angular and Postgres for government
-- 🥅 2023 Goals: Advance in my career as a developer and build a web application with business value
-- ⚡ Fun fact: I love to play drums 🥁 photography 📸 and video 🎥
-- 😻 I minted an NFT: [Peel Indestructible](https://opensea.io/assets/0xd07dc4262bcdbf85190c01c996b4c06a461d2430/309004)
+- 🌱 I am a Senior Full Stack Software Engineer 
+- 🥅 2024 Goals: Advance my development skills in React, Typescript and GraphQL
+- ⚡ Fun facts: I love to run, hike, play drums 🥁, learn photography 📸 and video 🎥
 
 ### Connect with me:
 
@@ -20,10 +19,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
