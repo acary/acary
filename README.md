@@ -1,12 +1,11 @@
-# Hi there, I'm [Andy Cary][instagram] 👋
+# Hey there, I'm [Andy Cary][instagram] 👋
 
 [![Website](https://img.shields.io/website?label=andycary.com&style=for-the-badge&url=https%3A%2F%2Fandycary.com)](https://andycary.com)
-[![Website](https://img.shields.io/website?label=andycarypro.com&style=for-the-badge&url=http%3A%2F%2Fandycarypro.com)](http://andycarypro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andycary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facary&screen_name=andycary)
 
-## I am a Software Engineer
+## I am a Senior Software Engineer
 
-- 🔭 Check out my portfolio: [AndyCary.com][website] | [AndyCaryPro.com](http://andycarypro.com/)
+- 🔭 Check out my portfolio: [AndyCary.com][website]
 - 🌱 I am a Senior Full Stack Software Engineer 
 - 🥅 2024 Goals: Advance my development skills in React, Typescript and GraphQL
 - ⚡ Fun facts: I love to run, hike, play drums 🥁, learn photography 📸 and video 🎥
